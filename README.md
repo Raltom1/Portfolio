@@ -57,7 +57,7 @@ MyPortfolio/
 
 ## 🖥️ **Demo**
 - Add a link to your live portfolio site here.
-   Example: [My Portfolio](https://your-website-link.com)
+   Example: [My Portfolio](https://raltom1.github.io/portfolio/)
 
 ---
 
@@ -93,7 +93,7 @@ MyPortfolio/
 - Connect with me on:
   - [GitHub](https://github.com/Raltom1)
   - [LinkedIn](https://linkedin.com/in/yourprofile)
-  - [Portfolio]()
+  - [Portfolio](https://raltom1.github.io/portfolio/)
 
 ---
 
