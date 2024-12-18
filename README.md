@@ -61,15 +61,6 @@ MyPortfolio/
 
 ---
 
-## 📷 **Screenshots**
-- **Homepage Shine Animation**:
-   ![Shine Animation](https://via.placeholder.com/600x300?text=Shine+Header)
-
-- **Modal Component**:
-   ![Modal Example](https://via.placeholder.com/600x300?text=Interactive+Modal)
-
----
-
 ## 📜 **Code Highlights**
 ### **Shine Animation Header**
 ```css
