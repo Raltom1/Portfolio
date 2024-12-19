@@ -90,7 +90,7 @@ MyPortfolio/
 ---
 
 ## 🧑‍💻 **Author**
-- **Your Name**: A passionate Full Stack Developer.
+- **Raltom1**: A passionate Full Stack Developer.
 - Connect with me on:
   - [GitHub](https://github.com/Raltom1)
   - [LinkedIn](https://linkedin.com/in/yourprofile)
